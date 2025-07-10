@@ -1,0 +1,11 @@
+{
+  "framework": "nextjs",
+  "outputDirectory": ".next",
+  "routes": [
+    {
+      "path": "/",
+      "method": "GET",
+      "entry": "next"
+    }
+  ]
+}
